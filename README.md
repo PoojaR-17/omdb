@@ -8,7 +8,7 @@ Movie List Display: A list of movies that match the search query is shown, each 
 Movie Details on Click: Clicking on any movie from the search results displays detailed information about the selected movie, including title, release date, genre, and IMDb rating.
 OMDb API Integration: The app uses the OMDb API to fetch movie data and details.
 
-![Demo]()
+![Demo](https://github.com/PoojaR-17/omdb/blob/main/SS.png)
 How It Works
 Debounce Function
 The debounce function is used to optimize the search process by waiting for a specific period of inactivity before making the API request. This prevents unnecessary API calls on each keystroke.
