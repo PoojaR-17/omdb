@@ -59,7 +59,7 @@ javascript
 Copy code
 let API_KEY = 'your_api_key_here';
 How to Run
-Clone: 
+Clone: https://github.com/PoojaR-17/omdb
 or download this project.
 Replace the API key in the script with your own OMDb API key.
 Open the index.html file in your browser.
